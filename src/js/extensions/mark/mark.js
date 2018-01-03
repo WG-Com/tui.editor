@@ -205,7 +205,7 @@ function markExtension(editor) {
     }
 
     return marker;
-  };
+  };lll
 
   /**
    * clearSelect
